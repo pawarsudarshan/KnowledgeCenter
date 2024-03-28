@@ -1,0 +1,11 @@
+1. What is UTF-8?
+- UTF-8 is a variable length character encoding that is used for electronic communication. Unicode Transformation Format – 8-bit.
+
+2. What are bootstrap breakpoints?
+- Breakpoints are the building blocks of respoinve design. There are 6 breakpoints in bootstrap 5.
+  Extra Small <576px
+  sm Small >=576 px
+  md Medium >=768 px
+  lg Large >=992 px
+  xl Extra Large >=1200 px
+  xxl Ex Ex Large >= 1400 px
